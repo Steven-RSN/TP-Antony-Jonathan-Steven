@@ -1,0 +1,41 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.arrow{
+    height: 50%;
+}
+
+h1{
+    text-align: center;
+}
+.carreN{
+    
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+}
+
+.carreJ{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+}
+.carreB{
+    border: none;
+    background-color: cyan;
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+}
+
+.posCheveux{
+    position: absolute;
+    
+}
+#flecheG{
+    opacity: 50%;
+}
